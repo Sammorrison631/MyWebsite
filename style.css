@@ -1,0 +1,94 @@
+body {
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+/*Header Logo & Links*/
+
+.menu-container {
+    display: flex;
+    background-color: #1f2937;
+    padding: 20px 15px 15px 20px;
+    align-items: center;
+}
+
+.top-logo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.link-list {
+    display: flex;
+    margin-left: auto;
+}
+
+.link-list a {
+    font-family: 'Roboto', Lato;
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 10px;
+}
+
+/*My Introduction Section*/
+
+.heading1 {
+    display: flex;
+    color: whitesmoke;
+    background-color: #1f2937;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+}
+
+.heading1-0 {
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+}
+
+.heading1-0 p {
+    font-family: 'Roboto', Lato;
+    opacity: 0.5;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: whitesmoke;
+    margin: 0;
+    font-family: 'Roboto', Lato;
+}
+
+.heading1-0-image img {
+    width: 500px;
+    height: 350px;
+}
+
+form button {
+    display: block;
+    width: 115px;
+    border: none;
+    background: #3882f6;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.heading1-0-image p {
+    font-size: 10px;
+    font-style: italic;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
