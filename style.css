@@ -62,7 +62,7 @@ body {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 45px;
     font-weight: bold;
     color: whitesmoke;
     margin: 0;
@@ -90,7 +90,7 @@ form button {
 }
 
 .heading1-0-image p {
-    font-size: 10px;
+    font-size: 18px;
     font-style: italic;
     color: whitesmoke;
     display: flex;
