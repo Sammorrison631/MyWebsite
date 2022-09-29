@@ -82,6 +82,11 @@ form button {
     padding: 15px;
     border-radius: 5px;
     text-align: center;
+    opacity: 0.7;
+}
+
+.heading1-0 button:hover {
+    opacity: 1;
 }
 
 .heading1-0-image p {
@@ -91,4 +96,69 @@ form button {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/*My Links - Middle Of The Page*/
+
+.content-section {
+    align-items: center;
+}
+
+.content-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.content-info a img {
+    height: 175px;
+    width: 175px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: blueviolet;
+    margin: 0px 15px 0px 15px;
+    opacity: 0.7;
+}
+
+.content-info img:hover {
+    opacity: 1;
+}
+
+.content-section h2 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.content-section p {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    color: #1f2937;
+    font-family: 'Roboto', lato;
+    font-weight: bold;
+}
+
+/*Quote*/
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    padding: 0 150px 0 150px;
+}
+
+.quote p {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: oblique;
+    font-family: 'Roboto', lato;
+}
+
+.quote b {
+    padding: 10px 50px 30px 0;
+    text-align: center;
+    font-family: 'Roboto', lato;
 }
