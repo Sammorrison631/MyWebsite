@@ -4,8 +4,8 @@ This website will showcase my skill of encryption through my resume. Links will 
 # Running the website
 Nothing needs to be run to check out my webpage. Just, take a look! --->
 # Credits
-theodinproject.com
-freecodecamp.org
-youtube.com
-HarvardCS50
-The internet
+### theodinproject.com
+### freecodecamp.org
+### youtube.com
+### HarvardCS50
+### The internet
